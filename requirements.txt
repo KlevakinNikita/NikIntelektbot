@@ -10,7 +10,6 @@ pyasn1==0.4.8
 pycparser==2.20
 Pygments==2.12.0
 pyowm==3.3.0
-pypiwin32==223
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
 PyQt5-stubs==5.14.2.2
