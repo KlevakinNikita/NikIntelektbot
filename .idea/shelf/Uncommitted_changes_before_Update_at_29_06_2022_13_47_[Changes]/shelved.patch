@@ -1,0 +1,206 @@
+Index: .idea/bot.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/bot.iml b/.idea/bot.iml
+--- a/.idea/bot.iml	(revision f19185d48b0962f0286baa0dfda685e573a49a3f)
++++ b/.idea/bot.iml	(date 1656490697706)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/venv" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"81a96172-7008-4897-9eb7-ba3f5f9b5723\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"29z3fbqZJnZjh1O36tjeB0vcUjN\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"bot\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"81a96172-7008-4897-9eb7-ba3f5f9b5723\" name=\"Changes\" comment=\"\" />\r\n      <created>1654102190622</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1654102190622</updated>\r\n      <workItem from=\"1654102199440\" duration=\"146000\" />\r\n      <workItem from=\"1654102366007\" duration=\"1569000\" />\r\n      <workItem from=\"1654103995647\" duration=\"96000\" />\r\n      <workItem from=\"1654140423334\" duration=\"760000\" />\r\n      <workItem from=\"1654508668771\" duration=\"28000\" />\r\n      <workItem from=\"1654687493889\" duration=\"34000\" />\r\n      <workItem from=\"1655630953428\" duration=\"602000\" />\r\n      <workItem from=\"1655741628228\" duration=\"12000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/bot$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1654104050065\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f19185d48b0962f0286baa0dfda685e573a49a3f)
++++ b/.idea/workspace.xml	(date 1656492288626)
+@@ -1,28 +1,49 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="81a96172-7008-4897-9eb7-ba3f5f9b5723" name="Changes" comment="" />
++    <list default="true" id="81a96172-7008-4897-9eb7-ba3f5f9b5723" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bot.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProjectId" id="29z3fbqZJnZjh1O36tjeB0vcUjN" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+-  }
+-}</component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
++  }
++}]]></component>
++  <component name="PyConsoleOptionsProvider">
++    <option name="myPythonConsoleState">
++      <console-settings module-name="bot" is-module-sdk="true">
++        <option name="myUseModuleSdk" value="true" />
++        <option name="myModuleName" value="bot" />
++      </console-settings>
++    </option>
++  </component>
+   <component name="RunManager">
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="bot" />
+@@ -63,13 +84,28 @@
+       <workItem from="1654687493889" duration="34000" />
+       <workItem from="1655630953428" duration="602000" />
+       <workItem from="1655741628228" duration="12000" />
++      <workItem from="1656396348148" duration="1353000" />
++      <workItem from="1656407245384" duration="605000" />
++      <workItem from="1656411961625" duration="1027000" />
++      <workItem from="1656486337895" duration="4750000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/bot$main.coverage" NAME="main Coverage Results" MODIFIED="1654104050065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/bot$main.coverage" NAME="main Coverage Results" MODIFIED="1656492208907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.8 (bot)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision f19185d48b0962f0286baa0dfda685e573a49a3f)
++++ b/.idea/misc.xml	(date 1656490697738)
+@@ -1,4 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (bot)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
++  <component name="PyPackaging">
++    <option name="earlyReleasesAsUpgrades" value="true" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># NikIntelektbot\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision f19185d48b0962f0286baa0dfda685e573a49a3f)
++++ b/README.md	(date 1656412054202)
+@@ -1,1 +1,2 @@
+ # NikIntelektbot
++# NikIntelektbot
+Index: requirements.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>散瑲晩㵩㈽㈰⸲⸵㠱ㄮ\u0A0D晣楦㴽⸱㔱〮\u0A0D档牡敳\u2D74潮浲污穩牥㴽⸲⸰㈱\u0A0D牣灹潴牧灡票㴽㜳〮㈮\u0A0D潤畣楴獬㴽⸰㠱ㄮ\u0A0D敧橯潳㵮㈽㔮〮\u0A0D摩慮㴽⸳ള䬊癩㵹㈽ㄮ〮\u0A0D楫祶搭灥\u2E73湡汧㵥〽㌮㈮\u0A0D楫祶搭灥\u2E73汧睥㴽⸰⸳റ權癩\u2D79敤獰献汤㴲〽㐮㔮\u0A0D楋祶攭慸灭敬㵳㈽ㄮ〮\u0A0D楋祶䜭牡敤㵮〽ㄮ㔮\u0A0D楐汬睯㴽⸹⸱റ瀊慹湳㴱〽㐮㠮\u0A0D祰灣牡敳㵲㈽㈮ര倊杹敭瑮㵳㈽ㄮ⸲ര瀊潹海㴽⸳⸳ര瀊灹睩湩㈳㴽㈲ള倊兹㕴㴽⸵㔱ㄮ\u0A0D祐瑑ⴵ楳㵰ㄽ⸲⸸റ倊兹㕴猭畴獢㴽⸵㐱㈮㈮\u0A0D祐潓正㵳ㄽ㜮ㄮ\u0A0D祰楷㍮㴲㌽㐰\u0A0D敲畱獥獴㴽⸲㜲ㄮ\u0A0D獲㵡㐽㘮\u0A0D楳㵸ㄽㄮ⸵ര甊汲楬㍢㴽⸱㘲㤮\u0A0D
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-16LE
+===================================================================
+diff --git a/requirements.txt b/requirements.txt
+--- a/requirements.txt	(revision f19185d48b0962f0286baa0dfda685e573a49a3f)
++++ b/requirements.txt	(date 1656492303639)
+@@ -1,1 +1,40 @@
+-散瑲晩㵩㈽㈰⸲⸵㠱ㄮ਍晣楦㴽⸱㔱〮਍档牡敳⵴潮浲污穩牥㴽⸲⸰㈱਍牣灹潴牧灡票㴽㜳〮㈮਍潤畣楴獬㴽⸰㠱ㄮ਍敧橯潳㵮㈽㔮〮਍摩慮㴽⸳ള䬊癩㵹㈽ㄮ〮਍楫祶搭灥⹳湡汧㵥〽㌮㈮਍楫祶搭灥⹳汧睥㴽⸰⸳റ權癩⵹敤獰献汤㴲〽㐮㔮਍楋祶攭慸灭敬㵳㈽ㄮ〮਍楋祶䜭牡敤㵮〽ㄮ㔮਍楐汬睯㴽⸹⸱റ瀊慹湳㴱〽㐮㠮਍祰灣牡敳㵲㈽㈮ര倊杹敭瑮㵳㈽ㄮ⸲ര瀊潹海㴽⸳⸳ര瀊灹睩湩㈳㴽㈲ള倊兹㕴㴽⸵㔱ㄮ਍祐瑑ⴵ楳㵰ㄽ⸲⸸റ倊兹㕴猭畴獢㴽⸵㐱㈮㈮਍祐潓正㵳ㄽ㜮ㄮ਍祰楷㍮㴲㌽㐰਍敲畱獥獴㴽⸲㜲ㄮ਍獲㵡㐽㘮਍楳㵸ㄽㄮ⸵ര甊汲楬㍢㴽⸱㘲㤮਍
+\ No newline at end of file
++APScheduler==3.6.3
++backports.zoneinfo==0.2.1
++cachetools==4.2.2
++certifi==2022.5.18.1
++cffi==1.15.0
++charset-normalizer==2.0.12
++cryptography==37.0.2
++decorator==5.1.1
++detect==2020.12.3
++docutils==0.18.1
++geojson==2.5.0
++idna==3.3
++Kivy==2.1.0
++kivy-deps.angle==0.3.2
++kivy-deps.glew==0.3.1
++kivy-deps.sdl2==0.4.5
++Kivy-examples==2.1.0
++Kivy-Garden==0.1.5
++only==2020.12.3
++Pillow==9.1.1
++pyasn1==0.4.8
++pycparser==2.20
++Pygments==2.12.0
++pyowm==3.3.0
++pypiwin32==223
++PyQt5==5.15.1
++PyQt5-sip==12.8.1
++PyQt5-stubs==5.14.2.2
++PySocks==1.7.1
++python-telegram-bot==13.13
++pytz==2022.1
++pytz-deprecation-shim==0.1.0.post0
++pywin32==304
++requests==2.27.1
++rsa==4.6
++six==1.15.0
++tornado==6.1
++tzdata==2022.1
++tzlocal==4.2
++urllib3==1.26.9
