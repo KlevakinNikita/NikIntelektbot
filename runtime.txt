@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Python 3.8
-=======
 Python 3.8.13
->>>>>>> origin/master
