@@ -1,2 +1,1 @@
 # NikIntelektbot
-# NikIntelektbot
